@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>SIMORA V2.0</title>
+
+<link rel="icon" type="image/webp" href="./Logo_Ditjen_Imigrasi.webp?v=2">
+
+<style>
+
+html,body{
+margin:0;
+height:100%;
+overflow:hidden;
+}
+
+iframe{
+width:100%;
+height:100vh;
+border:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<iframe
+src="https://script.google.com/macros/s/AKfycbwVeK9dKy32IChdM7bCCtF__QdwuhXik1i8-E1NXRGgacQCiUCl5RCEZZOTE05qxz2XZQ/exec">
+</iframe>
+
+</body>
+
+</html>
